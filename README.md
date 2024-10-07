@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Vaishnavi, Student at 👨‍💻 JSSATE Pursuing B.Tech.
+I am an Android Developer as well as a Programmer, obsessed with the idea of continuously improving myself.
+
+## About
+- ✨ I love to build Android applications based on unique ideas.
+- 📫 How to reach me: mail me at vaishnavig838@gmail.com
+
+## 🛠 Tech Stack
+<div style="display: inline-block;">
+<img src="https://github.com/user-attachments/assets/69129949-963e-458c-98a8-c19c069f766d" width="100" style="margin-right: 20 px;" />      <img src="https://github.com/user-attachments/assets/e25af7e2-46d9-42bf-a93e-53949009c82d" width="70" height="100" />    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="100" height="100" />   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" width="100" height="100" />    <img src="https://ih1.redbubble.net/image.684259797.9447/farp,small,wall_texture,product,750x1000.u3.webp" width="100" height="100" />
